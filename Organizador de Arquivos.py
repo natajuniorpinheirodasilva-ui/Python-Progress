@@ -4,8 +4,6 @@ import tkinter as tk
 
 def organizar():
     
-    janela = tk
-    
     caminho = input("Digite o caminho da pasta: ")
     categorias = {
         "Imagens": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
